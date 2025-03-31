@@ -1,0 +1,12 @@
+0 - lindt
+1 - president
+2 - herta
+3 - fleurymichon
+4 - Burger_King
+5 - IKEA
+6 - Apple
+7 - Adidas
+8 - Starbucks
+9 - McDonalds
+10 - Zara
+11 - Nike
